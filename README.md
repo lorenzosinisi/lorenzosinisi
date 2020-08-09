@@ -31,7 +31,7 @@ Technologies I love:
 - Ruby
 
 
-**Philosophy **
+**Philosophy**
 ---
 
 - We code for human, not machines
