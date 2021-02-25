@@ -1,5 +1,5 @@
 Hi there 👋,
-my name is Lorenzo Sinisi and I am working as Freelance Software Developer based in Berlin.
+my name is Lorenzo Sinisi and I am Software Developer based in Berlin.
 
 Designed in Italy and assembled in Berlin. *Not yet tested in German language, but I'm working on updating it!*
 
