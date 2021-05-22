@@ -1,34 +1,12 @@
-Hi there 👋,
-my name is Lorenzo Sinisi and I am Software Developer based in Berlin.
+<a href="https://twitter.com/lorenzosinisi" target="_blank" rel="nofollow"><img align="right" alt="Lorenzo Sinisi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/lorenzosinisi/" target="_blank" rel="nofollow"><img align="right" alt="Lorenzo Sinisi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-Designed in Italy and assembled in Berlin. *Not yet tested in German language, but I'm working on updating it!*
+### Hi there 👋 I'm Ali.
 
-**Background**
----
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=lorenzosinisi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzosinisi&layout=compact&hide_border=true&langs_count=10&hide=html,css">
+</p>
 
-
-Developing software since 2005, went from PHP + jQuery to Ruby and React until 
-recently landing on Elixir and a particular interested for distributed scalable 
-systems and computational logic.
-
-
-**Current work**
----
-
-
-Currently working on helping companies scale they business adopting technologies that
-work at scale (i.e. going from startup mode to big tv advertisement on prime time) 
-
-Technologies I love:
-- EventSourcing and CQRS in Elixir
-- JSON APIs via HTTP
-- Expert systems and AI
-- DSL and parsers built in Elixir/Erlang
-- Phoenix framework
-- Websocket connections
-- Javascript and React (saga, redux, reselect, webpack)
-- gRPC
-- Ruby
 
 
 **Philosophy**
